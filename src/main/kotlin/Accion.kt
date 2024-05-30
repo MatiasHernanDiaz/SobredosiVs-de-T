@@ -1,0 +1,4 @@
+interface Accion {
+    fun ejecutarAccion()
+}
+
